@@ -70,4 +70,7 @@ This project is licensed under the MIT License.
 -
 ### Best FYP Award In FYP EXPO 2023
 ![fyp](https://github.com/UsamaMalik93/Dress_Code_inspection_System/assets/136118359/40b67527-e79f-4070-9604-b4d7271c9b22)
+![ripped jeans](https://github.com/user-attachments/assets/4335a8af-e334-4e9a-9328-28b8a77d0569)
+![office](https://github.com/user-attachments/assets/2c20fcfc-d85f-4a6e-af70-f859eb52b68a)
+![male_kamez](https://github.com/user-attachments/assets/a88fc595-350a-49ee-8299-8f202edc7829)
 
