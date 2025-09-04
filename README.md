@@ -66,8 +66,11 @@ This project is licensed under the MIT License.
 
 ## Credits
 
-- [Flask](https://flask.palletsprojects.com/)
--
+- [Flask](https://flask.palletsprojects.com/) – Web framework for Python  
+- [Ultralytics](https://github.com/ultralytics/ultralytics) – Creator of YOLO  
+- [YOLOv8](https://github.com/ultralytics/ultralytics) – State-of-the-art object detection models
+
+
 ### Best FYP Award In FYP EXPO 2023
 ![fyp](https://github.com/UsamaMalik93/Dress_Code_inspection_System/assets/136118359/40b67527-e79f-4070-9604-b4d7271c9b22)
 
